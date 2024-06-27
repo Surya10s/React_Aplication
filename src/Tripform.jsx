@@ -73,9 +73,6 @@ export default function Tripform({ vecno }) {
     Vechial: {
       required: 'Cannot Required'
     },
-    UnloadingPlace: {
-      required: 'place Required'
-    },
     Charges: {
       required: 'Charges Required',
       pattern: {

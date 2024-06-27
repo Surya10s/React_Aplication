@@ -98,9 +98,6 @@ export default function Tripmodify() {
         Vechial: {
             required: 'Cannot Required'
         },
-        UnloadingPlace: {
-            required: 'place Required'
-        },
         Charges: {
             required: 'Charges Required',
             pattern: {
